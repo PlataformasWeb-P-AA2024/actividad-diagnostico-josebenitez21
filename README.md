@@ -16,7 +16,15 @@ git status
 git branch
 
 ### 3. Ejemplifique el comando de Linux: mv
+Se utiliza para mover archivos o directorios de una ubicación a otra.
+![image](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-josebenitez21/assets/92813843/474138f5-2cc7-4612-a6a2-6f105f81f6c4)
+
 ### 4. Ejemplifique el comando de Linux: cp
+Este comando sirve para copiar uno o mas archivos a otra ubicación.
+![image](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-josebenitez21/assets/92813843/92e419fc-2073-477d-bd1c-a859eb0f3d24)
+
+![image](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-josebenitez21/assets/92813843/b13c52ec-e2bb-45e7-ab00-e4818f1957b7)
+
 ### 5. Ejemplifique el comando de Linux: mkdir
 ### 6. Ejemplifique el comando de Linux: ls
 ### 7. Ejemplifique el comando de Linux: pwd
