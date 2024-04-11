@@ -47,6 +47,6 @@ Sirve para cambiar el directorio actual y movernos a una ubicación específica.
 
 
 ### 12. Ejemplifique el comando de Linux: cat
-
+Sirve para mostrar el contenido de un archivo en la terminal. 
 ![image](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-josebenitez21/assets/92813843/ef03e36e-6166-4166-946d-9c1214100ab4)
 
