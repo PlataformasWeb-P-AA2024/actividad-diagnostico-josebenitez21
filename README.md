@@ -2,10 +2,11 @@
 
 
 ### 1. ¿Qué lenguajes de programación a usado?
-Python
-Java
-Dart
-JavaScript
+-Python
+-Java
+-Dart
+-JavaScript
+-Scala
 
 ### 2. ¿Qué comandos conoce de GIT?
 git clone
