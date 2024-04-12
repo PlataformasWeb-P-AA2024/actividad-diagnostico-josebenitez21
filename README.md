@@ -15,6 +15,7 @@ git commit -a -m ""
 git push
 git status
 git branch
+git
 
 ### 3. Ejemplifique el comando de Linux: mv
 Se utiliza para mover archivos o directorios de una ubicación a otra.
