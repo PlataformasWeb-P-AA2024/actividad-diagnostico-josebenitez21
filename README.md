@@ -42,8 +42,14 @@ El comando pwd nos da la ruta en la que nos encontramos en el momento.
 
 ### 8. Ejemplifique el comando de Linux: touch
 Este comando nos sirve para crear un archivo vacío. El mismo puede ser modificado para actualizar las marcas de tiempo del archivo, por ejemplo touch archivoP.txt
+![Captura desde 2024-04-12 15-48-41](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-josebenitez21/assets/92813843/a34a0c94-b110-42b8-a301-1eb57037cb37)
+![Captura desde 2024-04-12 15-49-14](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-josebenitez21/assets/92813843/459a89ec-01f1-4a46-ace7-3c5f03d5beb1)
+
 ### 9. Ejemplifique el comando de Linux: grep
 Este comando sirve para encontrar patrones especificos dentro de un archivo.
+![Captura desde 2024-04-12 15-57-01](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-josebenitez21/assets/92813843/d1a519b4-56d4-4508-858f-6051e4e72b88)
+
+
 ### 10. Ejemplifique el comando de Linux: cd
 Sirve para cambiar el directorio actual y movernos a una ubicación específica.
 ![image](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-josebenitez21/assets/92813843/8c494993-ae22-49f5-8c05-91b4f1c016cb)
